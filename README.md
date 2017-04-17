@@ -16,11 +16,12 @@ Run the following commands to run the application.
  $ java -jar build/libs/webcrawler-0.1.0.jar
 
 ```
+
+Browse [http://localhost:8080/webcrawler/](http://localhost:8080/webcrawler/)
+
 ## Future updations  
 
 - Speedup the application
 - Create a nice UI
 - Call the rest end point and show the result in the UI 
-
-
 
